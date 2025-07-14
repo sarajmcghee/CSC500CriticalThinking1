@@ -2,7 +2,7 @@
 #Part 2:
 #Write a Python program to find the multiplication and division of two numbers.
 try:
-    num1 = float(input("Please Enter the first numer: "))
+    num1 = float(input("Please Enter the first number: "))
     num2 = float(input("Please Enter a second number: "))
     multiplication = num1 * num2
     if num2 != 0:
